@@ -10,7 +10,7 @@ A repository for custom Adwaita folders to help organize directories.
 So that you don't end up accidentally deleting or moving the file, I recommend cloning the icons to the path:
 
 ```
-git clone https://github.com/CleoMenezesJr/Custom-Adwaita-Folder-Icons.git ~/.local/share/icons
+git clone https://github.com/EncryptedEasty/Custom-Adwaita-Folder-Icons.git ~/.local/share/icons
 ```
 #### What is it?
 A repository created to help those like me who have ADHD and/or need some visual flag to help identify folders more easily. Roughly, these are just images of folders with different thumbs.
