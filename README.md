@@ -1,9 +1,8 @@
-# Custom Adwaita folder icons [Updated to use version 44+ icons]
+## Custom Adwaita folder icons [Updated to use version 44+ icons]
 
 Originally from [CleoMenezesJr/Custom-Adwaita-Folder-Icons](https://github.com/CleoMenezesJr/Custom-Adwaita-Folder-Icons), this fork updates the Icons to the ones used in version 44+ of Nautilus
 
 ---
-
 A repository for custom Adwaita folders to help organize directories.
 
 ## How to use
