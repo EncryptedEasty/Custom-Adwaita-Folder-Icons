@@ -14,9 +14,9 @@ git clone https://github.com/EncryptedEasty/Custom-Adwaita-Folder-Icons.git ~/.l
 These are not mimetypes, that is, when creating a folder that says Games will not automatically place the custom folder of Games. That's not the idea, You choose what you want to put and where you want to put it.
 
 ### Screenshots
-![Screenshot 1](https://user-images.githubusercontent.com/95353984/226432730-8ae3bca0-4f98-4a44-be16-a4c5ab6f2bea.png)
+![Screenshot 1](/assets/Screenshot1.png)
 
-![Screenshot 2](https://user-images.githubusercontent.com/95353984/226432853-d69c5e6f-9541-4141-9da1-0c922e4e7c69.png)
+![Screenshot 2](/assets/Screenshot2.png)
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Clone the repository, and use the main_preset.svg file as a base for contributions. In this file, in addition to the correct line guides, it contains color guides.
